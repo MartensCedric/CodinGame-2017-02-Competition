@@ -1,4 +1,6 @@
-### Rank 1289/3508
+# CodinGame 2017-02 Competition : Ghost in the Cell
+
+### My submission's ranking : 1289/3508
 
 # RULES
 
